@@ -1,6 +1,8 @@
 # Detecting-Coccinellids-Using-Faster-RCNN
 Web-based application available at: https://coccinellids.cs.ksu.edu/ <br />
-model used in the application:[model](https://ksuemailprod-my.sharepoint.com/:u:/g/personal/cwang16_ksu_edu/Ec2xffYhA9xLnBhGKEeDBAgBx-ENg0bkDil3i5Wdrw6eEQ?e=m0qs9w)
+Download model used in the application: [model](https://ksuemailprod-my.sharepoint.com/:u:/g/personal/cwang16_ksu_edu/Ec2xffYhA9xLnBhGKEeDBAgBx-ENg0bkDil3i5Wdrw6eEQ?e=m0qs9w)
+Download annotations used in this papar: [annotations](https://ksuemailprod-my.sharepoint.com/:f:/g/personal/cwang16_ksu_edu/EgUTIZwyrNFJkJsBycLm-3kB3gHBfI0yfZLy964OEILu_g?e=fiBWc5)
+The images used in this paper is saved in the annotation file. The images can be downloaded at iNaturalist Database.
 
 
 ##
@@ -12,7 +14,7 @@ __DL-Coccinellids__ detects 7 classes (Coccinella_septempunctata, Coleomegilla_m
 __train.py__ is the code for training the model for detection the Coccinellids in an image <br />
 __test.py__ is the code for testing the model for detecting theCoccinellids objects <br />
 __model__ folder cantains the model trained with about 300 images, <br />
-__datasets__ folder contains the shared dataset link.
+
 
 
 ## Prepare dataset:

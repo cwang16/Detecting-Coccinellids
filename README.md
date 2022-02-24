@@ -28,7 +28,11 @@ __datasets__ folder contains the shared dataset link.
 
 ./beetle/val2017
 
+## Install Detectron2:
+Installation Instruction available at https://detectron2.readthedocs.io/en/latest/tutorials/install.html
 
+## Merge files:
+Put all files in this repository in the root folder of detecton2
 
 ## Train:
 

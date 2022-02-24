@@ -14,7 +14,8 @@ __DL-Coccinellids__ detects 7 classes (Coccinella_septempunctata, Coleomegilla_m
 ## Content of the Repository
 __train.py__ is the code for training the model for detection the Coccinellids in an image <br />
 __test.py__ is the code for testing the model for detecting theCoccinellids objects <br />
-__model__ folder cantains the model trained with about 300 images, <br />
+__MyTrainer.py__ cantains customized training object <br />
+
 
 
 

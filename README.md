@@ -32,7 +32,7 @@ __datasets__ folder contains the shared dataset link.
 Installation Instruction available at https://detectron2.readthedocs.io/en/latest/tutorials/install.html
 
 ## Merge files:
-Put all files in this repository in the root folder of detecton2
+Put all files in this repository to the root folder of detecton2
 
 ## Train:
 

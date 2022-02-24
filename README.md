@@ -6,9 +6,10 @@ __Images__ used in this paper can be downloaded at: [iNaturalist Database](https
 
 
 ##
+![Web Image](https://i.pinimg.com/originals/9c/40/c6/9c40c67babece19e25859b736afe5fec.jpg) <br /> 
 __DL-Coccinellids__ detects 7 classes (Coccinella_septempunctata, Coleomegilla_maculata, Cycloneda_sanguinea,Harmonia_axyridis, Hippodamia_convergens, Olla_nigrum, Scymninae) using Detectron2 (Wu et al., 2019) and Faster RCNN (Ren et al., 2015). The Detectron2, available at https://github.com/facebookresearch/detectron2. The Python/TensforFlow implementation of Faster R-CNN (Chen and Gupta, 2017), available at https://github.com/endernewton/tf-faster-rcnn. The Detectron2 code where training object is completely rewritten according to the Coccinellids objects detected is made available here. We've also wrote visulizaiton code. Those modifications enable easy training or fine-tuning of models for other sets of Coccinellids images. 
 <br />
-![Web Image](https://i.pinimg.com/originals/9c/40/c6/9c40c67babece19e25859b736afe5fec.jpg) <br /> 
+
 
 ## Content of the Repository
 __train.py__ is the code for training the model for detection the Coccinellids in an image <br />

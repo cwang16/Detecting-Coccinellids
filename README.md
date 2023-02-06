@@ -2,7 +2,7 @@
 __Web-based application__ available at: https://coccinellids.cs.ksu.edu/ <br />
 __Model__ used in the application: [model](https://ksuemailprod-my.sharepoint.com/:u:/g/personal/cwang16_ksu_edu/Ec2xffYhA9xLnBhGKEeDBAgBx-ENg0bkDil3i5Wdrw6eEQ?e=m0qs9w) <br />
 __Annotations__ used in this papar: [annotations](https://ksuemailprod-my.sharepoint.com/:f:/g/personal/cwang16_ksu_edu/EgUTIZwyrNFJkJsBycLm-3kB3gHBfI0yfZLy964OEILu_g?e=fiBWc5) <br />
-__Images__ used in this paper can be downloaded at: [iNaturalist Database](https://www.inaturalist.org/). 
+__Images__ used in this paper can be downloaded at: [iNaturalist Database](https://www.inaturalist.org/).  <br />
 __Image IDs__ used in this paper can be downloaded at: [Image IDs](https://ksuemailprod-my.sharepoint.com/:f:/g/personal/cwang16_ksu_edu/EgWtcjs8XR5CiZDl9VEf3j4B5c5HgD7P4ZaRqAcXp1cyJQ?e=JmUyqP). 
 
 

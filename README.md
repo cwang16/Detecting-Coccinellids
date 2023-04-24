@@ -1,4 +1,4 @@
-# Detecting-Coccinellids-Using-Faster-RCNN <br />
+# Detecting-Coccinellids <br />
 __Web-based application__ available at: https://coccinellids.cs.ksu.edu/ <br />
 __Model__ used in the application: [model](https://ksuemailprod-my.sharepoint.com/:u:/g/personal/cwang16_ksu_edu/Ec2xffYhA9xLnBhGKEeDBAgBx-ENg0bkDil3i5Wdrw6eEQ?e=m0qs9w), all models in the paper:  [all models](https://ksuemailprod-my.sharepoint.com/:f:/g/personal/cwang16_ksu_edu/EkcBax9QZMdDnmnRWRfYZGIBH79HacgF4SeZd-frlog4oQ?e=ZdO2qs)<br />
 __Annotations__ used in this papar: [annotations](https://ksuemailprod-my.sharepoint.com/:f:/g/personal/cwang16_ksu_edu/EgUTIZwyrNFJkJsBycLm-3kB3gHBfI0yfZLy964OEILu_g?e=fiBWc5) <br />

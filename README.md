@@ -8,7 +8,7 @@ __Image IDs__ used in this paper can be downloaded at: [Image IDs](https://ksuem
 
 ##
 ![Web Image](https://i.pinimg.com/originals/9c/40/c6/9c40c67babece19e25859b736afe5fec.jpg) <br /> 
-__DL-Coccinellids__ detects 7 classes (Coccinella_septempunctata, Coleomegilla_maculata, Cycloneda_sanguinea,Harmonia_axyridis, Hippodamia_convergens, Olla_nigrum, Scymninae) using Detectron2 (Wu et al., 2019) and Faster RCNN (Ren et al., 2015). The Detectron2, available at https://github.com/facebookresearch/detectron2. The Python/TensforFlow implementation of Faster R-CNN (Chen and Gupta, 2017), available at https://github.com/endernewton/tf-faster-rcnn. The Detectron2 code where training object is completely rewritten according to the Coccinellids objects detected is made available here. We've also wrote visulizaiton code. Those modifications enable easy training or fine-tuning of models for other sets of Coccinellids images. Besides Detectron, Yolov5 and Yolov7, implemented in the paper, are available at https://github.com/ultralytics/yolov5/releases and https://github.com/WongKinYiu/yolov7. 
+__DL-Coccinellids__ detects 7 classes (Coccinella_septempunctata, Coleomegilla_maculata, Cycloneda_sanguinea,Harmonia_axyridis, Hippodamia_convergens, Olla_nigrum, Scymninae) using Detectron2 (Wu et al., 2019) and Faster RCNN (Ren et al., 2015). The Detectron2, available at https://github.com/facebookresearch/detectron2. The Python/TensforFlow implementation of Faster R-CNN (Chen and Gupta, 2017), available at https://github.com/endernewton/tf-faster-rcnn. The Detectron2 code where training object is completely rewritten according to the Coccinellids objects detected is made available here. We've also wrote visulizaiton code. Those modifications enable easy training or fine-tuning of models for other sets of Coccinellids images. Besides Detectron, Yolov5 and Yolov7, implemented in the paper, are available at https://github.com/ultralytics/yolov5 and https://github.com/WongKinYiu/yolov7. 
 <br />
 
 
@@ -59,6 +59,14 @@ Put all files in this repository to the root folder of detecton2
 2. Put the model's name at line 57 of file test.py
 
 3. Set the configuration file name in line 37 of test.py
+
+## Yolov5:
+Instruction is available at: https://github.com/ultralytics/yolov5
+
+
+## Yolov7:
+Instruction is available at: https://github.com/WongKinYiu/yolov7
+
 
 
 
